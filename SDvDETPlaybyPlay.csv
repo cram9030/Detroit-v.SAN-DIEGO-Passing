@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,Team,Detail,Type,DET,SDG,EPB,EPA,Play EPA,Win%,21,35,85,10,81,16,25,87,15
+1,15:00,,,SDG 35,SD,Josh Lambo kicks off 65 yards touchback,Kick,0,0,0,-0.28,0.28,56.6,,,,,,,,,
+1,15:00,1,10,DET 20,DET,Joique Bell left tackle for 1 yard (tackle by Corey Liuget and Kyle Emanuel),Run,0,0,0.28,-0.13,0.41,57.7,,,,,,,,,
+1,14:25,2,9,DET 21,DET,Matthew Stafford pass complete short right to Golden Tate for 11 yards (tackle by Brandon Flowers),Pass,0,0,-0.13,1.07,-1.2,54.2,NA,NA,NA,NA,NA,NA,NA,NA,Screen
+1,13:49,1,10,DET 32,DET,Joique Bell middle for 7 yards (tackle by Jahleel Addae and Manti Te'o),Run,0,0,1.07,1.47,-0.4,52.9,,,,,,,,,
+1,13:11,2,3,DET 39,DET,Matthew Stafford pass complete short right to Ameer Abdullah for no gain,Pass,0,0,1.47,0.76,0.71,55,Flat,NA,ComeBack,Post,Fade,NA,NA,NA,Slant
+1,12:26,3,3,DET 39,DET,Matthew Stafford pass complete short middle to Calvin Johnson for 28 yards (tackle by Jahleel Addae),Pass,0,0,0.76,3.38,-2.62,47,NA,NA,Fade,NA,Slant,Fade,NA,NA,Fade
+1,11:43,1,10,SDG 33,DET,Matthew Stafford pass incomplete deep left intended for Lance Moore,Pass,0,0,3.38,2.84,0.54,48.5,Wheel,NA,NA,Dig,NA,Post,NA,Out,NA
+1,11:39,2,10,SDG 33,DET,Matthew Stafford pass complete short right to Joique Bell for 9 yards (tackle by Eric Weddle),Pass,0,0,2.84,3.34,-0.5,47,NA,Screen,NA,NA,NA,NA,NA,NA,NA
+1,10:53,3,1,SDG 24,DET,Ameer Abdullah middle for 24 yards touchdown,Run,6,0,3.34,7,-3.66,38.9,,,,,,,,,
+1,10:53,,,SDG 24,DET,Matt Prater kicks extra point good,Kick,7,0,0,0,0,36,,,,,,,,,
+1,10:53,,,DET 35,DET,Sam Martin kicks off 70 yards returned by Jacoby Jones for 24 yards (tackle by Don Carey),Kick,7,0,0,-0.15,0.15,36.4,,,,,,,,,
+1,10:41,1,10,SDG 19,SD,Philip Rivers pass complete short left to Keenan Allen for 5 yards (tackle by Rashean Mathis),Pass,7,0,0.15,0.34,-0.19,36.9,,,,,,,,,
+1,10:06,2,5,SDG 24,SD,Melvin Gordon middle for -2 yards (tackle by Ezekiel Ansah),Run,7,0,0.34,-0.68,1.02,33.8,,,,,,,,,
+1,9:23,3,7,SDG 22,SD,Philip Rivers sacked by Phillip Hunt for -7 yards,Pass,7,0,-0.68,-2.44,1.76,28.8,,,,,,,,,
+1,8:42,4,14,SDG 15,SD,Mike Scifres punts 58 yards returned by Golden Tate for 20 yards (tackle by Ladarius Green),Punt,7,0,-2.44,-2.06,-0.38,29.6,,,,,,,,,
+1,8:28,1,10,DET 47,DET,Matthew Stafford pass incomplete short left intended for Calvin Johnson,Pass,7,0,2.06,1.52,0.54,31,NA,Out,NA,NA,Out,NA,NA,NA,Fade
+1,8:23,2,10,DET 47,DET,Zach Zenner left tackle for 4 yards (tackle by Donald Butler and Kendall Reyes),Run,7,0,1.52,1.36,0.16,31.4,,,,,,,,,
+1,7:38,3,6,SDG 49,DET,Matthew Stafford pass incomplete short left intended for Eric Ebron,Pass,7,0,1.36,0,1.36,35.2,NA,NA,Out,NA,Dig,NA,NA,Dig,Fade
+1,7:33,4,6,SDG 49,DET,Sam Martin punts 36 yards fair catch by Jacoby Jones,Punt,7,0,0,0.32,-0.32,34.2,,,,,,,,,
+1,7:24,1,10,SDG 13,SD,Philip Rivers pass complete short left to Melvin Gordon for 9 yards (tackle by Stephen Tulloch),Pass,7,0,-0.32,0.49,-0.81,36.5,,,,,,,,,
+1,6:58,2,1,SDG 22,SD,Melvin Gordon middle for 5 yards (tackle by Tyrunn Walker and Haloti Ngata),Run,7,0,0.49,0.74,-0.25,37.2,,,,,,,,,
+1,6:17,1,10,SDG 27,SD,Melvin Gordon left end for -2 yards (tackle by Jason Jones),Run,7,0,0.74,-0.07,0.81,34.6,,,,,,,,,
+1,5:48,2,12,SDG 25,SD,Danny Woodhead middle for 10 yards (tackle by Josh Wilson and Josh Bynes),Run,7,0,-0.07,0.56,-0.63,36.4,,,,,,,,,
+1,5:06,3,2,SDG 35,SD,Philip Rivers pass complete short middle to Steve Johnson for 6 yards (tackle by Stephen Tulloch),Pass,7,0,0.56,1.66,-1.1,39.6,,,,,,,,,
+1,4:28,1,10,SDG 41,SD,Philip Rivers pass complete short right to Melvin Gordon for 2 yards (tackle by Darryl Tapp),Pass,7,0,1.66,1.39,0.27,38.6,,,,,,,,,
+1,3:51,2,8,SDG 43,SD,Melvin Gordon middle for 14 yards (tackle by Josh Wilson and Glover Quin),Run,7,0,1.39,2.72,-1.33,42.7,,,,,,,,,
+1,3:06,1,10,DET 43,SD,Danny Woodhead right tackle for no gain (tackle by Josh Bynes),Run,7,0,2.72,2.18,0.54,40.8,,,,,,,,,
+1,2:27,2,10,DET 43,SD,Philip Rivers pass complete short right to Keenan Allen for 21 yards (tackle by Darius Slay and Josh Wilson),Pass,7,0,2.18,4.11,-1.93,47,,,,,,,,,
+1,1:54,1,10,DET 22,SD,Philip Rivers pass complete short left to Danny Woodhead for 1 yard (tackle by Rashean Mathis),Pass,7,0,4.11,3.7,0.41,45.5,,,,,,,,,
+1,1:15,2,9,DET 21,SD,Melvin Gordon middle for 7 yards (tackle by Glover Quin),Run,7,0,3.7,4.15,-0.45,46.9,,,,,,,,,
+1,0:31,2,9,DET 21,SD,Timeout #1 by San Diego Chargers,Run,7,0,0,0,0,,,,,,,,,,
+1,0:31,3,2,DET 14,SD,Philip Rivers pass incomplete short left intended for Danny Woodhead,Pass,7,0,4.15,2.63,1.52,41.6,,,,,,,,,
+1,0:27,4,2,DET 14,SD,Josh Lambo 32 yard field goal good,Run,7,3,2.63,3,-0.37,42.9,,,,,,,,,
+1,0:27,,,SDG 35,SD,Josh Lambo kicks off 70 yards returned by Ameer Abdullah for 48 yards (tackle by Eric Weddle),Kick,7,3,0,-1.8,1.8,36.9,,,,,,,,,
+1,0:14,1,10,DET 43,DET,Joique Bell middle for 6 yards (tackle by Donald Butler and Jason Verrett),Run,7,3,1.8,2.06,-0.26,36,,,,,,,,,
+2,15:00,2,4,DET 49,DET,Matthew Stafford pass incomplete,Pass,7,3,2.06,1.35,0.71,38.3,Wheel,NA,Curl,NA,Dig,NA,NA,NA,Double
+2,14:53,3,4,DET 49,DET,Matthew Stafford sacked by Kyle Emanuel for -13 yards,Pass,7,3,1.35,-0.98,2.33,46.1,NA,NA,Curl,Fade,Comeback,NA,NA,NA,Curl
+2,14:00,4,17,DET 36,DET,Sam Martin punts 42 yards out of bounds,Punt,7,3,-0.98,-0.41,-0.57,43.9,,,,,,,,,
+2,14:00,1,10,SDG 22,SD,Melvin Gordon left end for 6 yards (tackle by Tyrunn Walker),Run,7,3,0.41,0.68,-0.27,44.9,,,,,,,,,
+2,13:25,2,4,SDG 28,SD,Philip Rivers pass complete short right to Keenan Allen for 3 yards (tackle by Stephen Tulloch and Darius Slay),Pass,7,3,0.68,0.37,0.31,43.7,,,,,,,,,
+2,12:37,3,1,SDG 31,SD,Philip Rivers pass incomplete short middle intended for Keenan Allen is intercepted by Glover Quin at SDG-31 and returned for 31 yards touchdown,Pass,13,3,0.37,-7,7.37,23.4,,,,,,,,,
+2,12:28,,,SDG 31,DET,Matt Prater kicks extra point good,Kick,14,3,0,0,0,20.8,,,,,,,,,
+2,12:28,,,DET 35,DET,Sam Martin kicks off 65 yards touchback,Kick,14,3,0,-0.28,0.28,21.5,,,,,,,,,
+2,12:28,1,10,SDG 20,SD,Philip Rivers pass complete short left to Keenan Allen for 3 yards (tackle by Josh Bynes),Pass,14,3,0.28,0.14,0.14,21.1,,,,,,,,,
+2,11:54,2,7,SDG 23,SD,Philip Rivers sacked by Ezekiel Ansah and Devin Taylor for -9 yards,Pass,14,3,0.14,-2.03,2.17,15.8,,,,,,,,,
+2,11:38,3,16,SDG 14,SD,Philip Rivers pass incomplete short right intended for Danny Woodhead,Pass,14,3,-2.03,-2.47,0.44,14.8,,,,,,,,,
+2,11:08,4,16,SDG 14,SD,Mike Scifres punts 46 yards returned by Golden Tate for 14 yards (tackle by Denzel Perryman),Punt,14,3,-2.47,-2.52,0.05,14.5,,,,,,,,,
+2,10:55,1,10,SDG 46,DET,Zach Zenner right end for 2 yards (tackle by Manti Te'o and Donald Butler),Run,14,3,2.52,2.25,0.27,15,,,,,,,,,
+2,10:18,2,8,SDG 44,DET,Ameer Abdullah middle for 4 yards (tackle by Donald Butler),Run,14,3,2.25,2.08,0.17,15.1,,,,,,,,,
+2,9:37,3,4,SDG 40,DET,Matthew Stafford pass complete deep middle to Lance Moore for 22 yards (tackle by Jahleel Addae),Pass,14,3,2.08,4.37,-2.29,10.5,NA,NA,Dig,NA,Double,Dig,NA,NA,Double
+2,8:54,1,10,SDG 18,DET,Matthew Stafford pass complete deep middle to Eric Ebron for 18 yards touchdown,Pass,20,3,4.37,7,-2.63,7.8,NA,NA,Post,Out,NA,Fade,NA,NA,Fade
+2,8:54,,,SDG 18,DET,Matt Prater kicks extra point good,Kick,21,3,0,0,0,6.5,,,,,,,,,
+2,8:54,,,DET 35,DET,Sam Martin kicks off 65 yards touchback,Kick,21,3,0,-0.28,0.28,6.9,,,,,,,,,
+2,8:49,1,10,SDG 20,SD,Branden Oliver middle for 1 yard (tackle by Phillip Hunt and Jermelle Cudjo),Run,21,3,0.28,-0.13,0.41,6.4,,,,,,,,,
+2,8:15,2,9,SDG 21,SD,Philip Rivers pass complete deep right to Keenan Allen for 19 yards (tackle by James Ihedigbo). Penalty on James Ihedigbo: Personal Foul 15 yards,Pass,21,3,-0.13,2.59,-2.72,9.9,,,,,,,,,
+2,7:52,1,10,DET 45,SD,Branden Oliver middle for 3 yards (tackle by Phillip Hunt and Josh Bynes),Run,21,3,2.59,2.45,0.14,9.6,,,,,,,,,
+2,7:19,2,7,DET 42,SD,Philip Rivers pass complete short right to Ladarius Green for 19 yards (tackle by Glover Quin),Pass,21,3,2.45,4.04,-1.59,12.1,,,,,,,,,
+2,6:43,1,10,DET 23,SD,Danny Woodhead middle for 7 yards (tackle by Stephen Tulloch),Run,21,3,4.04,4.56,-0.52,12.9,,,,,,,,,
+2,6:13,2,3,DET 16,SD,Danny Woodhead right guard for 2 yards (tackle by Josh Bynes),Run,21,3,4.56,4.28,0.28,12.2,,,,,,,,,
+2,5:37,3,1,DET 14,SD,Penalty on Tyrunn Walker: Encroachment 5 yards (no play),Run,21,3,4.28,5.14,-0.86,13.6,,,,,,,,,
+2,5:07,1,9,DET 9,SD,Danny Woodhead middle for 9 yards touchdown,Run,21,9,5.14,7,-1.86,15.3,,,,,,,,,
+2,5:07,,,DET 9,SD,Josh Lambo kicks extra point good,Kick,21,10,0,0,0,17.7,,,,,,,,,
+2,5:07,,,SDG 35,SD,Josh Lambo kicks off 65 yards touchback,Kick,21,10,0,-0.28,0.28,17,,,,,,,,,
+2,5:02,1,10,DET 20,DET,Ameer Abdullah right tackle for 5 yards (tackle by Manti Te'o and Donald Butler). Penalty on Donald Butler: Face Mask (15 Yards) 15 yards,Run,21,10,0.28,1.6,-1.32,13.9,,,,,,,,,
+2,4:37,1,10,DET 40,DET,Joique Bell left guard for no gain (tackle by Corey Liuget),Run,21,10,1.6,1.05,0.55,15,,,,,,,,,
+2,3:56,2,10,DET 40,DET,Matthew Stafford pass incomplete short middle intended for Brandon Pettigrew (defended by Melvin Ingram),Pass,21,10,1.05,0.37,0.68,16.3,Flat,NA,NA,NA,Dig,NA,NA,Comeback,Curl
+2,3:52,3,10,DET 40,DET,Matthew Stafford pass complete short left to Golden Tate for 6 yards (tackle by Jason Verrett),Pass,21,10,0.37,-0.32,0.69,18,NA,NA,Post,Fade,Fade,Fade,NA,NA,Dig
+2,3:09,4,4,DET 46,DET,Sam Martin punts 37 yards fair catch by Jacoby Jones,Punt,21,10,-0.32,0.06,-0.38,16.7,,,,,,,,,
+2,3:00,1,10,SDG 17,SD,Melvin Gordon middle for 6 yards (tackle by Devin Taylor),Run,21,10,-0.06,0.35,-0.41,17.7,,,,,,,,,
+2,2:22,2,4,SDG 23,SD,Melvin Gordon middle for no gain (tackle by Josh Wilson),Run,21,10,0.35,-0.49,0.84,15.3,,,,,,,,,
+2,2:00,3,4,SDG 23,SD,Penalty on Jason Jones: Neutral Zone Infraction 5 yards (no play),Run,21,10,-0.49,0.81,-1.3,18.4,,,,,,,,,
+2,2:00,1,10,SDG 28,SD,Danny Woodhead middle for 1 yard (tackle by Haloti Ngata and Jason Jones),Run,21,10,0.81,0.4,0.41,17.3,,,,,,,,,
+2,1:36,2,9,SDG 29,SD,Philip Rivers pass complete deep right to Malcom Floyd for 29 yards (tackle by Darius Slay),Pass,21,10,0.4,2.79,-2.39,24,,,,,,,,,
+2,1:29,1,10,DET 42,SD,Philip Rivers pass complete short middle to Ladarius Green for 22 yards (tackle by Josh Wilson),Pass,21,10,2.79,4.24,-1.45,28.8,,,,,,,,,
+2,0:51,1,10,DET 20,SD,Penalty on Chris Watt: False Start 5 yards (no play),Run,21,10,4.24,3.91,0.33,27.4,,,,,,,,,
+2,0:51,1,10,DET 20,SD,Timeout #2 by San Diego Chargers,Run,21,10,0,0,0,,,,,,,,,,
+2,0:51,1,15,DET 25,SD,Philip Rivers pass incomplete short left intended for Ladarius Green,Pass,21,10,3.91,3.02,0.89,24.4,,,,,,,,,
+2,0:44,2,15,DET 25,SD,Philip Rivers pass complete short right to Steve Johnson for 9 yards (tackle by Glover Quin),Pass,21,10,3.02,3.52,-0.5,26,,,,,,,,,
+2,0:18,3,6,DET 16,SD,Philip Rivers pass complete short middle to Danny Woodhead for 7 yards (tackle by Tahir Whitehead),Pass,21,10,3.52,5.14,-1.62,31.5,,,,,,,,,
+2,0:12,3,6,DET 16,SD,Timeout #3 by San Diego Chargers,Run,21,10,0,0,0,,,,,,,,,,
+2,0:12,1,9,DET 9,SD,Philip Rivers pass incomplete short right intended for Malcom Floyd is intercepted by Darius Slay at DET-0,Pass,21,10,5.14,-0.28,5.42,14.7,,,,,,,,,
+2,0:07,1,10,DET 20,DET,Matthew Stafford for -1 yards,Run,21,10,0.28,-0.46,0.74,15.4,,,,,,,,,
+3,15:00,,,DET 35,DET,Sam Martin kicks off 65 yards touchback,Kick,21,10,0,-0.28,0.28,16,,,,,,,,,
+3,15:00,1,10,SDG 20,SD,Philip Rivers pass incomplete short left intended for Danny Woodhead,Pass,21,10,0.28,-0.27,0.55,14.6,,,,,,,,,
+3,14:57,2,10,SDG 20,SD,Philip Rivers pass complete short left to Keenan Allen for 20 yards (tackle by Rashean Mathis),Pass,21,10,-0.27,1.6,-1.87,19.6,,,,,,,,,
+3,14:25,1,10,SDG 40,SD,Philip Rivers pass incomplete short left intended for Keenan Allen,Pass,21,10,1.6,1.05,0.55,17.7,,,,,,,,,
+3,14:20,2,10,SDG 40,SD,Philip Rivers pass complete short left to Keenan Allen for 12 yards (tackle by Rashean Mathis),Pass,21,10,1.05,2.39,-1.34,21.6,,,,,,,,,
+3,13:44,1,10,DET 48,SD,Philip Rivers pass complete short right to Steve Johnson for 7 yards (tackle by Josh Wilson),Pass,21,10,2.39,2.79,-0.4,22.6,,,,,,,,,
+3,13:19,2,3,DET 41,SD,Melvin Gordon middle for 5 yards (tackle by Stephen Tulloch and Devin Taylor),Run,21,10,2.79,3.18,-0.39,23.7,,,,,,,,,
+3,12:37,1,10,DET 36,SD,Philip Rivers pass complete short right to Melvin Gordon for 5 yards (tackle by Josh Bynes and James Ihedigbo),Pass,21,10,3.18,3.31,-0.13,23.7,,,,,,,,,
+3,11:55,2,5,DET 31,SD,Philip Rivers pass complete short left to Danny Woodhead for 15 yards (tackle by Glover Quin and Darius Slay),Pass,21,10,3.31,4.51,-1.2,27.6,,,,,,,,,
+3,11:22,1,10,DET 16,SD,Danny Woodhead middle for 2 yards (tackle by Gabe Wright),Run,21,10,4.51,4.21,0.3,26.2,,,,,,,,,
+3,10:49,2,8,DET 14,SD,Philip Rivers pass complete short left to Ladarius Green for -1 yards (tackle by Rashean Mathis and Phillip Hunt),Pass,21,10,4.21,3.22,0.99,22.4,,,,,,,,,
+3,10:06,3,9,DET 15,SD,Philip Rivers pass complete short middle to Keenan Allen for 8 yards (tackle by Glover Quin),Pass,21,10,3.22,3.01,0.21,21.3,,,,,,,,,
+3,9:21,4,1,DET 7,SD,Josh Lambo 25 yard field goal good,Run,21,13,3.01,3,0.01,20.8,,,,,,,,,
+3,9:21,,,SDG 35,SD,Josh Lambo kicks off 65 yards touchback,Kick,21,13,0,-0.28,0.28,19.9,,,,,,,,,
+3,9:21,1,10,DET 20,DET,Matthew Stafford pass complete short right to Ameer Abdullah for 36 yards (tackle by Jason Verrett),Pass,21,13,0.28,2.65,-2.37,13.1,Wheel,NA,NA,NA,NA,NA,NA,NA,NA
+3,8:37,1,10,SDG 44,DET,Matthew Stafford pass complete short left to Golden Tate for 6 yards (tackle by Eric Weddle),Pass,21,13,2.65,2.92,-0.27,12,NA,NA,NA,NA,NA,NA,NA,NA,Screen
+3,8:02,2,4,SDG 38,DET,Matthew Stafford pass incomplete deep left intended for Golden Tate (defended by Jason Verrett),Pass,21,13,2.92,2.21,0.71,13.4,NA,Wheel,NA,NA,Post,NA,NA,NA,Double
+3,7:55,3,4,SDG 38,DET,Matthew Stafford pass incomplete is intercepted by Kyle Emanuel at SDG-41,Pass,21,13,2.21,-1.66,3.87,25.9,NA,NA,Dig,NA,Fade,Post,NA,NA,Corner
+3,7:49,1,10,SDG 41,SD,Philip Rivers pass complete short left to Keenan Allen for 15 yards (tackle by Rashean Mathis),Pass,21,13,1.66,2.65,-0.99,29.8,,,,,,,,,
+3,7:14,1,10,DET 44,SD,Melvin Gordon middle for 5 yards (tackle by Josh Wilson),Run,21,13,2.65,2.78,-0.13,30,,,,,,,,,
+3,6:54,2,5,DET 39,SD,Melvin Gordon middle for 4 yards (tackle by Jason Jones). Melvin Gordon fumbles (forced by Jason Jones) recovered by Stephen Tulloch at DET-35 (tackle by Melvin Gordon),Run,21,13,2.78,-1.27,4.05,15.2,,,,,,,,,
+3,6:47,1,10,DET 35,DET,Joique Bell right end for -1 yards (tackle by Manti Te'o and Melvin Ingram),Run,21,13,1.27,0.59,0.68,17.2,,,,,,,,,
+3,6:10,2,11,DET 34,DET,Matthew Stafford pass complete short left to Ameer Abdullah for -3 yards (tackle by Kyle Emanuel),Pass,21,13,0.59,-0.49,1.08,20.4,Screen,NA,Post,NA,Fade,Fade,NA,NA,Post
+3,5:25,3,14,DET 31,DET,Matthew Stafford pass incomplete short right intended for Golden Tate is intercepted by Patrick Robinson at DET-43 and returned for 27 yards,Pass,21,13,-0.49,-4.51,4.02,36.9,NA,NA,NA,Fade,Post,NA,NA,NA,Double
+3,5:15,1,10,DET 16,SD,Danny Woodhead middle for 3 yards (tackle by Haloti Ngata),Run,21,13,4.51,4.39,0.12,36.2,,,,,,,,,
+3,4:46,2,7,DET 13,SD,Danny Woodhead middle for 1 yard (tackle by Darryl Tapp),Run,21,13,4.39,3.73,0.66,32.8,,,,,,,,,
+3,4:09,3,6,DET 12,SD,Philip Rivers pass complete short left to Steve Johnson for 12 yards touchdown,Pass,21,19,3.73,7,-3.27,43.7,,,,,,,,,
+3,4:09,,,DET 12,SD,Josh Lambo kicks extra point good,Kick,21,20,0,0,0,48.9,,,,,,,,,
+3,4:09,,,SDG 35,SD,Josh Lambo kicks off 65 yards touchback,Kick,21,20,0,-0.28,0.28,47.5,,,,,,,,,
+3,4:03,1,10,DET 20,DET,Matthew Stafford pass complete short left to Ameer Abdullah for 11 yards (tackle by Jahleel Addae and Patrick Robinson),Pass,21,20,0.28,1,-0.72,43.7,Wheel,NA,Post,NA,Dig,Post,NA,NA,Fade
+3,3:28,1,10,DET 31,DET,Ameer Abdullah middle for 6 yards (tackle by Eric Weddle),Run,21,20,1,1.27,-0.27,42,,,,,,,,,
+3,2:48,2,4,DET 37,DET,Matthew Stafford pass complete short right to Golden Tate for 1 yard (tackle by Eric Weddle and Jason Verrett),Pass,21,20,1.27,0.7,0.57,44.8,NA,NA,NA,NA,NA,NA,NA,NA,Screen
+3,2:08,3,3,DET 38,DET,Ameer Abdullah right tackle for 2 yards (tackle by Cordarro Law and Manti Te'o),Run,21,20,0.7,-0.72,1.42,52.4,,,,,,,,,
+3,1:14,4,1,DET 40,DET,Penalty on Sam Martin: Delay of Game 4 yards (no play),Run,21,20,-0.72,-0.98,0.26,53.7,,,,,,,,,
+3,0:57,4,5,DET 36,DET,Sam Martin punts 34 yards,Punt,21,20,-0.98,-0.94,-0.04,53.5,,,,,,,,,
+3,0:41,1,10,SDG 30,SD,Philip Rivers pass complete short right to Branden Oliver for 17 yards (tackle by Devin Taylor),Pass,21,20,0.94,2.06,-1.12,59.8,,,,,,,,,
+4,15:00,1,10,SDG 47,SD,Melvin Gordon right tackle for 3 yards (tackle by Josh Bynes),Run,21,20,2.06,1.92,0.14,59.1,,,,,,,,,
+4,14:28,2,7,50,SD,Philip Rivers pass complete short right to Danny Woodhead for -3 yards (tackle by Phillip Hunt),Pass,21,20,1.92,0.83,1.09,52.6,,,,,,,,,
+4,13:44,3,10,SDG 47,SD,Philip Rivers pass complete short middle to Keenan Allen for 15 yards (tackle by Rashean Mathis),Pass,21,20,0.83,3.05,-2.22,65.8,,,,,,,,,
+4,13:13,1,10,DET 38,SD,Danny Woodhead right tackle for 4 yards (tackle by Jason Jones),Run,21,20,3.05,3.05,0,65.9,,,,,,,,,
+4,12:38,2,6,DET 34,SD,Philip Rivers pass complete short left to Ladarius Green for 21 yards (tackle by James Ihedigbo),Pass,21,20,3.05,4.71,-1.66,75.3,,,,,,,,,
+4,11:53,1,10,DET 13,SD,Philip Rivers pass complete short middle to Ladarius Green for 13 yards touchdown,Pass,21,26,4.71,7,-2.29,82,,,,,,,,,
+4,11:53,1,10,DET 13,SD,Penalty on Philip Rivers: Delay of Game 5 yards (no play),Run,21,26,4.71,0,4.71,82,,,,,,,,,
+4,11:53,,,DET 13,SD,Josh Lambo kicks extra point no good,Kick,21,26,0,-1,1,77.3,,,,,,,,,
+4,11:53,,,SDG 35,SD,Josh Lambo kicks off 73 yards returned by Ameer Abdullah for 34 yards (tackle by Eric Weddle),Kick,21,26,0,-0.67,0.67,78.9,,,,,,,,,
+4,11:43,1,10,DET 26,DET,Matthew Stafford pass complete short left to Joique Bell for 18 yards (tackle by Melvin Ingram),Pass,21,26,0.67,1.86,-1.19,72.9,NA,Screen,NA,NA,NA,NA,NA,NA,NA
+4,11:08,1,10,DET 44,DET,Ameer Abdullah middle for 11 yards (tackle by Jimmy Wilson),Run,21,26,1.86,2.59,-0.73,68.9,,,,,,,,,
+4,10:24,1,10,SDG 45,DET,Joique Bell left end for 1 yard (tackle by Eric Weddle). Penalty on Donald Butler: Illegal Use of Hands 5 yards,Run,21,26,2.59,2.98,-0.39,66.9,,,,,,,,,
+4,9:54,1,10,SDG 39,DET,Matthew Stafford pass incomplete short middle intended for Calvin Johnson (defended by Eric Weddle),Pass,21,26,2.98,2.44,0.54,70.6,NA,NA,Fade,Out,Dig,Fade,NA,NA,Fade
+4,9:49,2,10,SDG 39,DET,Ameer Abdullah left end for -2 yards. Ameer Abdullah fumbles recovered by Ameer Abdullah at SDG-41,Run,21,26,2.44,1.49,0.95,76.3,,,,,,,,,
+4,9:01,3,12,SDG 41,DET,Matthew Stafford pass incomplete short right intended for Golden Tate,Pass,21,26,1.49,0.53,0.96,82.3,NA,Out,NA,Out,NA,Curl,NA,NA,Curl
+4,9:00,4,12,SDG 41,DET,Sam Martin punts 27 yards out of bounds,Punt,21,26,0.53,0.28,0.25,83.5,,,,,,,,,
+4,8:51,1,10,SDG 14,SD,Philip Rivers pass complete short left to Keenan Allen for 7 yards (tackle by Rashean Mathis),Pass,21,26,-0.28,0.28,-0.56,86.2,,,,,,,,,
+4,8:16,2,3,SDG 21,SD,Philip Rivers pass complete short left to Keenan Allen for 11 yards (tackle by Glover Quin),Pass,21,26,0.28,1.07,-0.79,89.9,,,,,,,,,
+4,7:46,1,10,SDG 32,SD,Melvin Gordon middle for 1 yard (tackle by Josh Bynes),Run,21,26,1.07,0.66,0.41,89.1,,,,,,,,,
+4,7:03,2,9,SDG 33,SD,Philip Rivers pass complete short right to Steve Johnson for 34 yards (tackle by Darius Slay),Pass,21,26,0.66,3.38,-2.72,96.9,,,,,,,,,
+4,6:15,1,10,DET 33,SD,Melvin Gordon right guard for no gain (tackle by Darryl Tapp). Penalty on Chris Watt: Offensive Holding 10 yards (no play),Run,21,26,3.38,2.72,0.66,96.6,,,,,,,,,
+4,5:45,1,20,DET 43,SD,Philip Rivers pass complete short middle to Keenan Allen for 2 yards (tackle by James Ihedigbo),Pass,21,26,2.72,1.76,0.96,95.2,,,,,,,,,
+4,5:04,2,18,DET 41,SD,Melvin Gordon middle for -1 yards (tackle by Darryl Tapp and Tyrunn Walker),Run,21,26,1.76,0.96,0.8,85.1,,,,,,,,,
+4,4:18,3,19,DET 42,SD,Philip Rivers pass complete short middle to Keenan Allen for 20 yards (tackle by Glover Quin),Pass,21,26,0.96,4.11,-3.15,95.7,,,,,,,,,
+4,3:29,3,19,DET 42,SD,Timeout #1 by San Diego Chargers,Run,21,26,0,0,0,,,,,,,,,,
+4,3:29,1,10,DET 22,SD,Danny Woodhead middle for 2 yards (tackle by Stephen Tulloch),Run,21,26,4.11,3.83,0.28,94.8,,,,,,,,,
+4,3:24,1,10,DET 22,SD,Timeout #1 by Detroit Lions,Run,21,26,0,0,0,,,,,,,,,,
+4,3:24,2,8,DET 20,SD,Philip Rivers pass complete short right to Keenan Allen for 5 yards (tackle by Quandre Diggs),Pass,21,26,3.83,3.93,-0.1,94.5,,,,,,,,,
+4,2:48,3,3,DET 15,SD,Philip Rivers pass complete short left to Steve Johnson for 14 yards (tackle by Quandre Diggs),Pass,21,26,3.93,6.97,-3.04,98.7,,,,,,,,,
+4,2:37,3,3,DET 15,SD,Timeout #2 by Detroit Lions,Run,21,26,0,0,0,,,,,,,,,,
+4,2:37,1,1,DET 1,SD,Danny Woodhead middle for 1 yard touchdown,Run,21,32,6.97,7,-0.03,99.9,,,,,,,,,
+4,2:37,,,DET 1,SD,Josh Lambo kicks extra point good,Kick,21,33,0,0,0,99.9,,,,,,,,,
+4,2:37,,,SDG 35,SD,Josh Lambo kicks off 71 yards returned by Ameer Abdullah for 23 yards (tackle by Jimmy Wilson),Kick,21,33,0,0.06,-0.06,99.9,,,,,,,,,
+4,2:27,1,10,DET 17,DET,Matthew Stafford pass complete short right to Eric Ebron for 14 yards (tackle by Eric Weddle),Pass,21,33,-0.06,1,-1.06,99.9,NA,NA,Curl,NA,Comeback,Comeback,NA,NA,Dig
+4,2:07,1,10,DET 31,DET,Matthew Stafford pass complete short right to Eric Ebron for 7 yards (tackle by Jimmy Wilson),Pass,21,33,1,1.41,-0.41,99.9,NA,NA,Out,NA,Dig,Post,Curl,NA,Curl
+4,2:00,2,3,DET 38,DET,Matthew Stafford pass complete short left to Calvin Johnson for 11 yards (tackle by Patrick Robinson and Melvin Ingram),Pass,21,33,1.41,2.19,-0.78,99.9,NA,NA,Fade,NA,Dig,Fade,Wheel,NA,Dig
+4,1:40,1,10,DET 49,DET,Matthew Stafford pass complete short left to Theo Riddick for 16 yards (tackle by Eric Weddle),Pass,21,33,2.19,3.25,-1.06,99.9,NA,NA,ComeBack,NA,Fade,Comeback,Curl,NA,Wheel
+4,1:23,1,10,SDG 35,DET,Matthew Stafford pass complete short middle to Eric Ebron for 14 yards (tackle by Jimmy Wilson),Pass,21,33,3.25,4.17,-0.92,99.9,NA,NA,Slant,NA,Fade,Fade,Out,NA,Fade
+4,1:17,1,10,SDG 35,DET,Timeout #3 by Detroit Lions,Run,21,33,0,0,0,,,,,,,,,,
+4,1:17,1,10,SDG 21,DET,Matthew Stafford pass incomplete deep middle intended for Golden Tate (defended by Eric Weddle),Pass,21,33,4.17,3.63,0.54,99.9,NA,NA,Dig,NA,Fade,Curl,Dig,NA,Post
+4,1:09,2,10,SDG 21,DET,Matthew Stafford pass complete short middle to Theo Riddick for 21 yards touchdown,Pass,27,33,3.63,7,-3.37,99.3,NA,NA,ComeBack,NA,Fade,Fade,Post,NA,Comeback
+4,1:09,,,SDG 21,DET,Matt Prater kicks extra point good,Kick,28,33,0,0,0,99.8,,,,,,,,,
+4,1:09,,,DET 35,DET,Sam Martin kicks onside 12 yards,Kick,28,33,0,-2.46,2.46,99.9,,,,,,,,,
+4,1:03,1,10,DET 47,SD,Philip Rivers for -1 yards,Run,28,33,2.46,1.78,0.68,99.9,,,,,,,,,
+4,0:33,2,11,DET 48,SD,Philip Rivers for -1 yards,Run,28,33,1.78,0.96,0.82,99.9,,,,,,,,,
